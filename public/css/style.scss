@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Comfortaa;
+    src: url('../fonts/Comfortaa-VariableFont_wght.ttf');
+}
+
+$enable-rounded: false;
+$font-family-base: 'Comfortaa';
+@import 'bs/scss/bootstrap';
